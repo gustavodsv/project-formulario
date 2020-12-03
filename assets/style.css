@@ -3,6 +3,16 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+.modoNoturno{
+    background-color: #252424;
+}
+.btn_modoDark{
+    width: 206px;
+    height: 30px;
+    background-color: #FFFD01;
+    color: rgb(128, 128, 128);
+    margin-left: 4px;
+}
 body{
     margin-top: 200px;
     display: flex;
